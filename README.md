@@ -1,4 +1,4 @@
-# CRM Dasboard
+# Dice game
 
 ![alt text](public/readme.jpg "jpg")
 
